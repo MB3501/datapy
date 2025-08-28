@@ -1,1 +1,1 @@
-1 wrong_number_spotting_game 0.1.0B https://github.com/MB3501/datapy/blob/refs/is/nm0.1.0Beta.zip .zip 000 
+1 wrong_number_spotting_game 0.1.0B https://github.com/MB3501/datapy/blob/main/is/nm0.1.0Beta.zip .zip 000 
